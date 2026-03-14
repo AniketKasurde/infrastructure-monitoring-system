@@ -7,7 +7,7 @@ This project demonstrates how to monitor Linux servers, visualize metrics, and t
 ---
 
 # Architecture
-![Architecture Diagram](./screenshots/Architecture.svg)
+![Architecture Diagram](./screenshots/Architecture_2.svg)
 
 ---
 
