@@ -51,7 +51,7 @@ CPU usage > 90% for 2 minutes
 Disk usage > 90% for 2 minutes
 
 # Project Structure
-
+```
 .
 ├── alertmanager.yml
 ├── alert.rules.yml
@@ -69,7 +69,7 @@ Disk usage > 90% for 2 minutes
     ├── Email_alert.png
     ├── firing_state.png
     └── Resolved_email.png
-
+```
 ---
 
 ## Dashboard
