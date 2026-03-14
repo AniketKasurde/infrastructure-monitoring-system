@@ -164,3 +164,7 @@ docker ps
 # Go to http://localhost:9090/targets
 # All targets should show as UP
 ```
+## Author
+
+**Aniket Kasurde**
+[GitHub](https://github.com/AniketKasurde) | [LinkedIn](https://www.linkedin.com/in/aniket-kasurde/)
