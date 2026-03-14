@@ -56,7 +56,7 @@ Disk usage > 90% for 2 minutes
 ├── alertmanager.yml
 ├── alert.rules.yml
 ├── dashboards
-│   └── Server Monitoring-1773401026256.json
+│   └── Server Monitoring.json
 ├── docker-compose.yml
 ├── prometheus.yml
 ├── README.md
