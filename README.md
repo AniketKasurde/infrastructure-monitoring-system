@@ -108,7 +108,7 @@ Disk usage > 90% for 2 minutes
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/AniketKasurde/infrastructure-monitoring-system.git
-cd your-repo
+cd infrastructure-monitoring-system
 ```
 ### 2. Configure Prometheus
 Edit `prometheus.yml` and update the target IP with your server's IP:
